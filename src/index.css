@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.image{
+width: 400px;
+margin: auto;
+}
+
+.price{
+  text-align: center;
+}
+
+article{
+  width: 500px;
+  /* background-color: blue; */
+  margin: auto;
+  text-align: center;
+}
+ 
